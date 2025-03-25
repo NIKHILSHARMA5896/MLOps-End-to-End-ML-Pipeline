@@ -1,0 +1,4 @@
+[core]
+    remote = dvc-s3-mlops
+['remote "dvc-s3-mlops"']
+    url = s3://first-mlops-bucket-nik
